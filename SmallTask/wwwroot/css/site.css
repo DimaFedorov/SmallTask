@@ -1,18 +1,6 @@
-html {
-  font-size: 14px;
+.reply {
+    text-align: center;
 }
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  margin-bottom: 60px;
+.center-write{
+    text-align:center;
 }
